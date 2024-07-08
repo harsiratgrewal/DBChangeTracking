@@ -1,6 +1,6 @@
 #!/bin/bash
 source ~/.bash_profile
-
+w
 
 SERVER="csi3660.database.windows.net"
 DATABASE="Project_Test"
