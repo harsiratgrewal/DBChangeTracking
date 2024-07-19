@@ -1,3 +1,4 @@
- 09:48:01 up 9 min,  1 user,  load average: 0.07, 0.05, 0.05
+ 23:57:01 up 41 min,  2 users,  load average: 0.00, 0.01, 0.05
 USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
-gre13wal pts/0    35.235.244.33    09:47    1.00s  0.01s  0.01s -bash
+gre13wal pts/0    35.235.244.32    23:16    1:01   0.18s  0.18s -bash
+gre13wal pts/1    35.235.244.32    23:29    5.00s  0.03s  0.03s -bash
