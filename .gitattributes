@@ -1,4 +1,1 @@
-*.sh linguist-language=Shell
 *.php linguist-language=PHP
-*.html linguist-language=HTML
-*.css linguist-language=CSS
